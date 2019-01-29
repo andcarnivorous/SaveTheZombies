@@ -1,4 +1,4 @@
-# SaveTheZombies
+# Save The Zombies
 
 The nice sprites are from https://github.com/brenopolanski/cactusjs-sprites-games
 
